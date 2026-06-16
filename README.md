@@ -72,7 +72,7 @@
 
 ---
 
-## 🏆 Patent-Pending Research
+## 🏆 Patented Research
 
 <table>
 <tr>
@@ -81,7 +81,7 @@
 ### 🛰️ AMSSFN
 **All-Weather Multi-Spectral Satellite Fusion Network**
 
-`PyTorch` `Multi-modal DL` `Patent Pending`
+`PyTorch` `Multi-modal DL` `Patented`
 
 - Invented **environment-conditioned cross-spectral attention** — atmospheric state (clear/cloudy/smoky/night) directly modulates SWIR-thermal-visible band interactions
 - Thermal super-resolution from **100m → 30m** using learned Lagrange multipliers, preserving temperature accuracy within **0.2K**
@@ -93,7 +93,7 @@
 ### 🌙 Intelligent Adaptive Low-Light Vision
 **Hardware-Adaptive Zero-DCE Edge System**
 
-`PyTorch` `TensorRT` `NVIDIA Jetson Nano` `Patent Pending`
+`PyTorch` `TensorRT` `NVIDIA Jetson Nano` `Patented`
 
 - Architected degradation-aware enhancement model superseding Zero-DCE; adaptive to high-variance noise and motion blur
 - Deployed at **35 FPS / ~15ms latency** on Jetson Nano via **TensorRT INT8/FP16** quantization
@@ -121,17 +121,6 @@
 </td>
 <td width="50%" valign="top">
 
-### 🔧 AstraSRE — AI Anomaly Detection & Self-Healing
-`Isolation Forest` `Groq API` `Ollama` `LLM`
-
-- Trained **Isolation Forest** on multi-signal observability (CPU%, latency, error rates); CRITICAL anomalies trigger auto-remediation achieving **~4s MTTR**
-- **LLM-powered incident reporting** (Groq/Ollama) generates root-cause analysis from raw metric vectors; 100% report availability
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🚁 Autonomous Quadcopter — Mono-Vision Navigation
 `ArduPilot` `Pixhawk` `ROS2` `C++`
 
@@ -140,6 +129,8 @@
 - Designing **decentralized multi-agent path planning** for a swarm of 3 drones
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🤖 VIO-Based Pathfinding & Mapping Robot
@@ -150,41 +141,11 @@
 - **A\* path planning** on live occupancy grid for dynamic obstacle avoidance
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-
-### 🌐 3D Environment Reconstruction with RGB-D
-`Open3D` `ICP` `PCL` `Python`
-
-- Multi-view reconstruction pipeline via **ICP point cloud registration**
-- Sub-centimeter alignment accuracy across **20+ viewpoints**
-- Intrinsic/extrinsic camera calibration for precise depth-to-RGB alignment
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ Cognitive Business Automation Suite
-`Streamlit` `Scikit-learn` `XGBoost` `SQLite`
-
-- Customer churn prediction dashboard with **Plotly risk gauge** and dynamic retention actions
-- FlowbitAI: adaptive invoice parser with **fuzzy self-correction** and human-in-the-loop review
-- Rossmann store sales forecasting via pipeline-driven regression models
 
 </td>
 </tr>
 </table>
-
----
-
-## 💼 Experience & Leadership
-
-| Role | Organization | Period |
-|:---|:---|:---|
-| 🛸 **Core Member & Technical Mentor** — AI Perception for Defense UAVs | **Rugved Systems** | Apr 2025 – Present |
-| 📚 **Management Committee Member** | **ACM Manipal** | Present |
-
-> At **Rugved Systems**, leading AI/perception research for autonomous defense UAVs — real-time threat detection using YOLO and ROS2-based deployment pipelines, while mentoring 20+ undergraduates in model training, evaluation, and simulation workflows.
 
 ---
 
@@ -196,21 +157,6 @@
 |:---|:---|
 | 🇮🇳 **Smart India Hackathon (SIH) — Round 2 Qualifier** | Developed Physics-Aware Multi-Modal Thermal Super-Resolution system; top national qualifier |
 | 🤖 **E-Yantra Robotics Competition (IIT Bombay) — Top 15** | Recognized for AI-driven autonomous navigation system design |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=VedhSontha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedhSontha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=VedhSontha&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="165"/>
 
 </div>
 
