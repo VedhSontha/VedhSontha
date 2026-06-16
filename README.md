@@ -143,6 +143,13 @@
 </td>
 <td width="50%" valign="top">
 
+### 🛡️ [AEGIS — Web Vulnerability Scanner](https://client-psi-lemon-26.vercel.app/)
+`Next.js` `Express` `MongoDB` `TypeScript` `Gemini API`
+
+- Engineered a closed-loop **active web vulnerability scanner** featuring a real-time SSE attack console
+- Deployed dynamic mitigation system with automated framework-specific patch generation (`F` → `A+` grading)
+- Designed responsive Bento dashboard with WebGL posture visualization and AI-driven threat briefings
+
 </td>
 </tr>
 </table>
