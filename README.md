@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+%7C+2+Provisional+Patents;35+FPS+Edge+AI+on+NVIDIA+Jetson+Nano;79%25+mAP+Satellite+Fusion+Network;96%25+Accuracy+Medical+CNN;Real-Time+Drone+Obstacle+Avoidance" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+%7C+2+Patents;35+FPS+Edge+AI+on+NVIDIA+Jetson+Nano;79%25+mAP+Satellite+Fusion+Network;96%25+Accuracy+Medical+CNN;Real-Time+Drone+Obstacle+Avoidance" alt="Typing SVG" />
 
 </div>
 
@@ -26,7 +26,7 @@
 
 > B.Tech student at **Manipal Institute of Technology** (CCE, CGPA 7.93/10) — building production-grade AI systems at the intersection of deep learning, computer vision, and edge hardware.
 
-- 🔬 **2 Provisional Patents** filed (Low-Light Vision + Multi-Spectral Satellite Fusion)
+- 🔬 **2 Patents** (Low-Light Vision + Multi-Spectral Satellite Fusion)
 - 🚀 Deployed real-time inference pipelines at **35 FPS on NVIDIA Jetson Nano** via TensorRT INT8/FP16
 - 🛰️ Built satellite fusion networks achieving **79% mAP** — +18% over single-network baseline
 - 🧠 Mentoring **20+ undergraduates** in Deep Learning and Computer Vision at Rugved Systems
