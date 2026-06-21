@@ -121,7 +121,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🚁 Autonomous Quadcopter — Mono-Vision Navigation
+### 🚁 [Autonomous Quadcopter — Mono-Vision Navigation](https://github.com/VedhSontha/drone-obstacle-detection)
 `ArduPilot` `Pixhawk` `ROS2` `C++`
 
 - GPS-denied navigation reducing flight path deviation by **~40%** vs. open-loop baseline
@@ -133,7 +133,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 VIO-Based Pathfinding & Mapping Robot
+### 🤖 [VIO-Based Pathfinding & Mapping Robot](https://github.com/VedhSontha/VIO-VSLAM)
 `VINS-Mono` `RTAB-Map` `ROS2` `A*` `C++`
 
 - Engineered **Visual Inertial Odometry (VIO)** fusing monocular vision + high-frequency IMU for precise state estimation in GPS-denied zones
