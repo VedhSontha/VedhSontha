@@ -143,7 +143,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ [AEGIS — Web Vulnerability Scanner](https://client-psi-lemon-26.vercel.app/)
+### 🛡️ [AEGIS — Web Vulnerability Scanner](https://client-psi-lemon-26.vercel.app/) ([GitHub](https://github.com/VedhSontha/Aegis))
 `Next.js` `Express` `MongoDB` `TypeScript` `Gemini API`
 
 - Engineered a closed-loop **active web vulnerability scanner** featuring a real-time SSE attack console
