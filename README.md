@@ -152,6 +152,21 @@
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [HybridLM — Neuro-Symbolic RAG System](https://github.com/VedhSontha/HybridLM)
+`PyTorch` `FAISS` `SQLite FTS5` `NLP` `Transformers`
+
+- Fuses **FAISS semantic vector search** with **SQLite FTS5 keyword query execution** via reciprocal rank fusion (RRF)
+- Implements custom **PyTorch representation projection bridge** mapping 768d BERT embeddings to LLaMA 4096d hidden space
+- Quantized to **4-bit NF4** and optimized for local edge GPUs under 8GB VRAM limit using lazy-loading and offloading
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 ---
