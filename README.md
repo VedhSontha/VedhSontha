@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+%7C+2+Patents;35+FPS+Edge+AI+on+NVIDIA+Jetson+Nano;79%25+mAP+Satellite+Fusion+Network;96%25+Accuracy+Medical+CNN;Real-Time+Drone+Obstacle+Avoidance" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+%7C+2+Patents;35+FPS+Edge+AI+on+NVIDIA+Jetson+Nano;79%25+mAP+Satellite+Fusion+Network;96%25+Accuracy+Medical+CNN;Real-Time+Drone+Obstacle+Avoidance;Flipkart+Gridlock+2.0+Logistics+Optimizer" alt="Typing SVG" />
 
 </div>
 
