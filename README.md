@@ -44,6 +44,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **Deep Learning & CV**
 
@@ -53,6 +54,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLOv8--v11-006400?style=flat-square&logo=ultralytics&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-002F6C?style=flat-square&logo=facebook&logoColor=white)
 
 **Edge & Deployment**
 
