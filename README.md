@@ -164,6 +164,9 @@
 - Implements custom **PyTorch representation projection bridge** mapping 768d BERT embeddings to LLaMA 4096d hidden space
 - Quantized to **4-bit NF4** and optimized for local edge GPUs under 8GB VRAM limit using lazy-loading and offloading
 
+</td>
+<td width="50%" valign="top">
+
 ### 🚦 [Flipkart Gridlock 2.0](https://github.com/VedhSontha/Flipkart-Gridlock-2.0)
 `Optimization` `Pathfinding` `Logistics` `Python`
 
