@@ -150,6 +150,7 @@
 
 - Engineered a closed-loop **active web vulnerability scanner** featuring a real-time SSE attack console
 - Deployed dynamic mitigation system with automated framework-specific patch generation (`F` → `A+` grading)
+- Integrated advanced security audits including dynamic CORS credential-leak detection and SSL/TLS certificate lifetime monitoring
 - Designed responsive Bento dashboard with WebGL posture visualization and AI-driven threat briefings
 
 </td>
