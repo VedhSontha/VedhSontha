@@ -177,6 +177,18 @@
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🛰️ [AstraSRE](https://github.com/VedhSontha/AstraSRE)
+`Python` `Next.js` `Prometheus` `Loki` `Jaeger` `Docker` `Ollama`
+
+- Built an autonomous, self-healing SRE platform featuring live telemetry-driven service-health monitoring.
+- Closed the inject -> detect -> diagnose -> remediate loop in under 5 seconds using Isolation Forest ML and topological RCA.
+- Automatically handles pod restarts, horizontal scaling, and cache seeding, generating detailed LLM incident reports.
+
+</td>
+</tr>
 </table>
 
 ---
